@@ -5,7 +5,7 @@
 
 local discord_webhook = {
     -- Insert Discord Webhook URL here!!!
-    url = "",
+    url = "https://discordapp.com/api/webhooks/695549797750407179/9HO_nQiQgd4U7OIGPnir03QNy5VHVDgCmXWglFXQEdrbYM6-r_7eZhVzqGPbTHECuhCR",
     image = "https://i.pinimg.com/originals/ab/a1/d0/aba1d0c0115a70a7493c25cb269bdf0e.png"
 }
 
